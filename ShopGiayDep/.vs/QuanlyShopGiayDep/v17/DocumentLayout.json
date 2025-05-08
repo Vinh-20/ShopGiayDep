@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|d:\\download\\shopgiaydep\\shopgiaydep\\quanlyshopgiaydep\\forms\\order\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\order\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\order\\frmaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\order\\frmaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\order\\frmaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\order\\frmaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|d:\\download\\shopgiaydep\\shopgiaydep\\quanlyshopgiaydep\\forms\\order\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\order\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\order\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\order\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\account\\frmcaptk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\account\\frmcaptk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\product\\frmupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\product\\frmupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\product\\frmupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\product\\frmupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\product\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\product\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\product\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\product\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\staff\\frmupdatestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\staff\\frmupdatestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\staff\\frmupdatestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\staff\\frmupdatestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\staff\\frmaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\staff\\frmaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\staff\\frmaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\staff\\frmaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\order\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\order\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\dto\\sizesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\dto\\sizesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\dto\\productjsonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\dto\\productjsonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\dal\\homedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\dal\\homedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\home\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\home\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\home\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\home\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmdoidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmdoidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmdoidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmdoidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmtichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmtichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmtichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmtichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\staff\\frmstaffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\staff\\frmstaffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\customer\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\customer\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\staff\\frmstaffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\staff\\frmstaffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\account\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\account\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|D:\\Download\\ShopGiayDep\\ShopGiayDep\\quanlyshopgiaydep\\forms\\account\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC69C6A-EE82-441E-A554-3428557A77CD}|QuanlyShopGiayDep\\QuanlyShopGiayDep.csproj|solutionrelative:quanlyshopgiaydep\\forms\\account\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 672,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOrders.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:33:10.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAddCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmAddCustomer.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmAddCustomer.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmAddCustomer.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:12:27.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAddOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:09:09.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:22:34.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmThanhToan.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Order\\FrmThanhToan.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:22:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCapTK.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Account\\FrmCapTK.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Account\\FrmCapTK.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Account\\FrmCapTK.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Account\\FrmCapTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:56:18.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmUpdateProduct.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAMwAwBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:39:01.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmUpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Product\\FrmUpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:40:06.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAddProduct.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAMwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:39:28.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAddProduct.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Product\\FrmAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:39:27.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmlogin.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Frmlogin.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Frmlogin.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Frmlogin.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:37:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmlogin.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Frmlogin.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Frmlogin.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Frmlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:37:36.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAddStaff.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:25:39.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmUpdateStaff.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:25:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmUpdateStaff.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Staff\\FrmUpdateStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:25:22.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmScanQR.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\FrmScanQR.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\FrmScanQR.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\FrmScanQR.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\FrmScanQR.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAMwGUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:54:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAddStaff.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Staff\\FrmAddStaff.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAMwHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:15:50.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmOrders.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Order\\FrmOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:18:19.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmScanQR.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\FrmScanQR.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\FrmScanQR.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\FrmScanQR.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\FrmScanQR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:54:13.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAddOrder.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Order\\FrmAddOrder.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA+wIMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:09:13.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SizesDTO.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DTO\\SizesDTO.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\DTO\\SizesDTO.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DTO\\SizesDTO.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\DTO\\SizesDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:55:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductJsonModel.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DTO\\ProductJsonModel.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\DTO\\ProductJsonModel.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DTO\\ProductJsonModel.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\DTO\\ProductJsonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:55:57.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerDAL.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DAL\\CustomerDAL.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\DAL\\CustomerDAL.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DAL\\CustomerDAL.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\DAL\\CustomerDAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:04:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmDoiDiem.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:02:54.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeDAL.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DAL\\HomeDAL.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\DAL\\HomeDAL.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\DAL\\HomeDAL.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\DAL\\HomeDAL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:30:44.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:29:32.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Home\\FrmHome.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:29:57.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmDoiDiem.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmDoiDiem.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:23:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmTichDiem.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:19:26.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmTichDiem.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmTichDiem.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAnwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:19:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmStaffs.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAzwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:07:36.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmCustomers.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAnwK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:48:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmCustomers.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Customer\\FrmCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:48:43.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\FrmMain.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:29:27.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmStaffs.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Staff\\FrmStaffs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:07:35.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmAccounts.cs",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:04:25.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmAccounts.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs",
+              "RelativeDocumentMoniker": "QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs",
+              "ToolTip": "D:\\Download\\ShopGiayDep\\ShopGiayDep\\QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs [Design]",
+              "RelativeToolTip": "QuanlyShopGiayDep\\Forms\\Account\\FrmAccounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:04:23.759Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
