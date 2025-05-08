@@ -1,3 +1,29 @@
+# Thư mục và file build
+bin/
+obj/
+*.suo
+*.user
+*.vsidx
+.vs/
+
+# Thư mục NuGet packages
+packages/
+
+# File tạm của Visual Studio
+*.cache
+*.pdb
+*.dll
+*.exe
+*.exe.config
+
+# File cấu hình nhạy cảm
+*.config
+
+# File có thể lớn hoặc không cần thiết
+*.mdj
+*.pdf
+
+# Các file khác
 node_modules/
 .env
 *.log
